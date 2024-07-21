@@ -8,5 +8,5 @@ if exists('g:loaded_omm_nvim')
 endif
 let g:loaded_omm_nvim = 1
 
-command! -nargs=0 Omm lua require('omm_nvim').init()
+command! -nargs=0 Omm lua require('omm-nvim').init()
 
