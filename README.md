@@ -18,13 +18,10 @@
 ```lua
 return {
   "davitostes/omm-nvim",
-  config = function()
-    require("omm-nvim").setup()
-  end,
 }
 ```
 
-### Using
+## Using
 
 Adds the command `Omm` to open omm in a floating window.
 
