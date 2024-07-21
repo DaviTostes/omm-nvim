@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-    nvim integration for <a href="https://github.com/dhth/omm">omm</a>"
+    nvim integration for <a href="https://github.com/dhth/omm">omm</a>
 </p>
 
 ## Requirements
