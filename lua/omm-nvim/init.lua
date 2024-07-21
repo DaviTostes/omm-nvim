@@ -6,7 +6,7 @@ function M.init()
 	-- Resize the window
 	vim.cmd("resize 20")
 	-- Open the terminal and runs omm
-	vim.fn.termopen("omm")
+	vim.cmd("term omm")
 	-- Switch to terminal mode
 	vim.cmd("startinsert")
 	-- Map q to close the window in terminal mode
